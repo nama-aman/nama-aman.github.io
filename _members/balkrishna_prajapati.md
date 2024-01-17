@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Mr Bal krishna Prajapati
     align: right
-    image: 
+    image: balkrishna_prajapati.jpg
     role: Secretary
     email: 
     twitter: 
