@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Kipaagraphy Bhaktapur # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name: Kipaagraphy Bhaktapur
@@ -39,7 +39,7 @@ max_width: 900px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: /assets/img/og/kipaagraphy_png.png # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/og/pg.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -63,8 +63,8 @@ wikidata_id: # your wikidata id
 contact_note: >
   Send us an email and follow us on facebook and YouTube.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics: # out your google-analytics code
+panelbear_analytics:  # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -189,7 +189,7 @@ enable_panelbear_analytics: false
 enable_mansory:             false
 enable_math:                false
 enable_tooltips:            false
-enable_darkmode:            true
+enable_darkmode:            false
 show_social_icons:          false
 
 # -----------------------------------------------------------------------------
