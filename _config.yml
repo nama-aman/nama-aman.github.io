@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kipaagraphy Bhaktapur # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name: Kipaagraphy Bhaktapur
@@ -189,7 +189,7 @@ enable_panelbear_analytics: false
 enable_mansory:             false
 enable_math:                false
 enable_tooltips:            false
-enable_darkmode:            false
+enable_darkmode:            true
 show_social_icons:          false
 
 # -----------------------------------------------------------------------------
