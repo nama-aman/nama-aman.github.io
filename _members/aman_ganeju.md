@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: Mr Aman Ganeju
     align: right
-    image: 
+    image: aman_profile.jpg
     role: General Executive member
     email: 
     twitter: 
