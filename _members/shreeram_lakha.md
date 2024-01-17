@@ -8,7 +8,7 @@ rank: 5
 
 
 title: Shreeram Lakha
-description: Ph.D. Candidate
+description: Treasurer
 lastname: Lakha
 publications: #'author^=*Eskandani'
 
@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: Mr Shreeram Lakha
     align: right
-    image: 
+    image: shreeram_lakha.jpg
     role: Treasurer
     email: 
     twitter: 

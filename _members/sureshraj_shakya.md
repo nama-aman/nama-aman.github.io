@@ -5,25 +5,25 @@ group: Advisors
 group_rank: 1
 team_frontpage: false
 rank: 
+
 title: Suresh Raj Shakya
-description: Ph.D. Candidate
+description: President
 lastname: Shakya
 publications: #'author^=*Eskandani'
 
 teaser: >
-    PhD student at ....
+    President
 
 profile:
     name: Mr Suresh Raj Shakya
     align: right
-    image: 
-    role: Advisor
+    image: sureshraj_shakya.jpg
+    role: President
     email: 
     twitter: 
     orcid: 
     address: >
         Bhaktapur
 ---
-
 ........
 details

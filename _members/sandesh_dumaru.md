@@ -8,7 +8,7 @@ rank: 7
 
 
 title: Sandesh Dumaru
-description: Ph.D. Candidate
+description: General Executive member
 lastname: Dumaru
 publications: 
 
@@ -18,7 +18,7 @@ teaser: >
 profile:
     name: Mr Sandesh Dumaru
     align: right
-    image: 
+    image: sandesh_profile.jpg
     role: General Executive member
     email: 
     twitter: 

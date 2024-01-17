@@ -7,17 +7,17 @@ team_frontpage: true
 rank: 2
 
 title: Ujwol Chandra Buddhacharya
-description: Ph.D. Candidate
+description: Vice President
 lastname: Buddhacharya
 publications: #'author^=*Eskandani'
 
 teaser: >
-    PhD student at ....
+    Vice President
 
 profile:
     name: Mr Ujwol Chandra Buddhacharya
     align: right
-    image: 
+    image: ujwol_buddhacharya.jpg
     role: Vice President
     email: 
     twitter: 

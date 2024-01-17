@@ -8,17 +8,17 @@ rank: 4
 
 
 title: Sunil Lage
-description: Ph.D. Candidate
+description: Joint Secretary
 lastname: Lage
 publications: #'author^=*Eskandani'
 
 teaser: >
-    PhD student at ....
+    Joint Secretary
 
 profile:
     name: Mr Sunil Lage
     align: right
-    image: 
+    image: sunil_lage.jpg
     role: Joint Secretary
     email: 
     twitter: 

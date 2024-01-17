@@ -8,7 +8,7 @@ rank: 9
 
 
 title: Sambranda Bajracharya
-description: Ph.D. Candidate
+description: General Executive member
 lastname: Bajracharya
 publications: 
 
@@ -16,9 +16,9 @@ teaser: >
     General Executive member
 
 profile:
-    name: Mr Sambranda Bajracharya
+    name: Mrs Sambranda Bajracharya
     align: right
-    image: 
+    image: sambranda_bajracharya.jpg
     role: General Executive member
     email: 
     twitter: 

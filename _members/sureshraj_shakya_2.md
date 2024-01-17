@@ -7,17 +7,17 @@ team_frontpage: true
 rank: 1
 
 title: Suresh Raj Shakya
-description: Ph.D. Candidate
+description: President
 lastname: Shakya
 publications: #'author^=*Eskandani'
 
 teaser: >
-    PhD student at ....
+    President
 
 profile:
     name: Mr Suresh Raj Shakya
     align: right
-    image: 
+    image: sureshraj_shakya.jpg
     role: President
     email: 
     twitter: 

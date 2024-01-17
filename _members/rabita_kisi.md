@@ -8,7 +8,7 @@ rank: 8
 
 
 title: Rabita Kisi
-description: Ph.D. Candidate
+description: General Executive member
 lastname: kisi
 publications: 
 
@@ -16,9 +16,9 @@ teaser: >
     General Executive member
 
 profile:
-    name: Mr Sandesh Dumaru
+    name: Mrs Rabita Kisi
     align: right
-    image: 
+    image: rabiti_kisi.jpg
     role: General Executive member
     email: 
     twitter: 

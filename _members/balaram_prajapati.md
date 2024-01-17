@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Mr Bala Ram Prajapati
     align: right
-    image: 
+    image: balkrishna_prajapati.jpg
     role: Advisor
     email: 
     twitter: 
