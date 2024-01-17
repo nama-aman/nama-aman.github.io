@@ -48,7 +48,7 @@ and **Software Engineering**, including languages and architectures for
 when you are interested in these topics or our work.
 Students at HSG or TU Darmstadt,
 please find [our courses, theses, and jobs]({{ '/teaching' | relative_url }}).
-{: class="clearfix"} --> -->
+{: class="clearfix"} -->
 
 ### Current Executive members:
 
