@@ -33,18 +33,22 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to the Kipaagaphy Bhaktapur!
 
+Established in 4th Bhadra 2072 BS (21st August 2015), Kipaagraphy Bhaktapur is a vibrant community of young photographers in Bhaktapur, Nepal, dedicated to preserving and promoting the region's art, culture, and heritage through photography. With the motto "Photography for Heritage Conservation," the organization conducts diverse exhibitions and training programs, bridging the gap between practical and theoretical aspects of photography. Beyond its artistic pursuits, Kipaagraphy Bhaktapur actively collaborates with local photographers throughout Bhaktapur to address and resolve problems and issues within the community.
+
+[Learn more about Kipaagraphy Bhaktapur]({{ '/introduction' | relative_url }})
+
 <!-- We are part of the [Institute of Computer Science (ICS)](https://ics.unisg.ch/){: target="_blank"} at the [University of St. Gallen (HSG)](https://www.unisg.ch/){: target="_blank"}
 and have a branch at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/){: target="_blank"}. 
 Together we enjoy working on **Programming Languages**
 and **Software Engineering**, including languages and architectures for
 **Distributed Systems**, **Reactive Programming**, **DevOps Organizations**, and **Secure Software Systems**. -->
 
-<!-- [Talk to us](mailto:kipaagraphybkt@gmail.com) -->
-<!-- [join our group]({{ '/open-positions' | relative_url }})
+
+<!-- [join our group]
 when you are interested in these topics or our work.
 Students at HSG or TU Darmstadt,
 please find [our courses, theses, and jobs]({{ '/teaching' | relative_url }}).
-{: class="clearfix"} -->
+{: class="clearfix"} --> -->
 
 ### Current Executive members:
 
