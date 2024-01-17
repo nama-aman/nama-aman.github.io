@@ -48,7 +48,7 @@ please find [our courses, theses, and jobs]({{ '/teaching' | relative_url }}).
 
 ### Current Executive members:
 
-{% assign members = site.members | where: "team_frontpage", true | sort: "lastname" %}
+{% assign members = site.members | where: "team_frontpage", true | sort: "rank" %}
 <div class="d-flex flex-wrap align-content-stretch justify-content-center m-n2 pt-5 no-gutters">
     {% for member in members %}
         {% assign colsMod6 = forloop.length | modulo: 6 %}
