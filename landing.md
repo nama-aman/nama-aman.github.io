@@ -1,87 +1,120 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+title: Others
+layout: page
+description: ''
+image: /assets/images/others/creative1.jpg
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
-
-<!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h1>Other works</h1>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+<!-- <h2 id="content">Nature</h2> -->
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit">
+		<a href="/assets/images/others/creative1.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative1.jpg" />
+                </a>
+		</span></div>
+		<div class="4u"><span class="image fit">
+        <a href="/assets/images/others/creative2.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative2.jpg" />
+                </a>
+    </span></div>
+	<div class="4u$"><span class="image fit">
+        <a href="/assets/images/others/creative9.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative9.jpg" />
+                </a>
+    </span></div>
+    <!-- line 2 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images//others/creative3.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative3.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/others/creative4.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative4.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/others/creative5.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative5.jpg" />
+                </a>
+    </span></div>
+    <!-- line 3 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/others/creative6.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative6.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/others/creative7.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative7.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/others/creative8.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/creative8.jpg" />
+                </a>
+    </span></div>
 	</div>
+</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit">
+		<a href="/assets/images/others/old1.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old1.jpg" />
+                </a>
+		</span></div>
+		<div class="4u"><span class="image fit">
+        <a href="/assets/images/others/old2.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old2.jpg" />
+                </a>
+    </span></div>
+	<div class="4u$"><span class="image fit">
+        <a href="/assets/images/others/old3.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old3.jpg" />
+                </a>
+    </span></div>
+    <!-- line 2 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images//others/old4.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old4.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/others/old5.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old5.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/others/old6.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old6.jpg" />
+                </a>
+    </span></div>
+    <!-- line 3 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/others/old7.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old7.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/others/old10.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old10.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/others/old9.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/others/old9.jpg" />
+                </a>
+    </span></div>
 	</div>
-</section>
-
 </div>

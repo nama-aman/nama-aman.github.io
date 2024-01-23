@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nature and Landscape
-image: assets/images/pic01.jpg
+image: assets/images/nature/nature-out.jpg
 nav-menu: true
 ---
 
