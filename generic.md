@@ -1,13 +1,151 @@
 ---
-layout: post
-title: Generic
-description: Lorem ipsum dolor est
+layout: page
+title: Lifestyle and Culture
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<!-- Main -->
+<div id="main" class="alt">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Lifestyle and Culture</h1>
+		</header>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="6u"><span class="image fit">
+		<a href="/assets/images/lifestyle/lifestyle1.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle1.jpg" />
+                </a>
+		</span></div>
+		<div class="6u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle (1).jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle2.jpg" />
+                </a>
+    </span></div>
+    <!-- line 2 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle3.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle3.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle4.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle4.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle5.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle5.jpg" />
+                </a>
+    </span></div>
+    <!-- line 3 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle6.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle6.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle7.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle7.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle8.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle8.jpg" />
+                </a>
+    </span></div>
+    <!-- line 4 -------------------------------------------------------------------------- -->
+    <div class="6u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle9.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle9.jpg" />
+                </a>
+    </span></div>
+    <div class="6u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle10.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle10.jpg" />
+                </a>
+    </span></div>
+    <!-- line 5 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle11.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle11.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle12.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle12.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle13.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle13.jpg" />
+                </a>
+    </span></div>
+    <!-- line 6 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle14.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle14.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle15.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle15.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle16.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle16.jpg" />
+                </a>
+    </span></div>
+    <!-- line 7 -------------------------------------------------------------------------- -->
+    <div class="6u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle17.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle17.jpg" />
+                </a>
+    </span></div>
+    <div class="6u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle18.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle18.jpg" />
+                </a>
+    </span></div>
+    <!-- line 8 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle19.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle19.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle20.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle20.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle21.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle21.jpg" />
+                </a>
+    </span></div>
+    <!-- line 9 -------------------------------------------------------------------------- -->
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle22.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle22.jpg" />
+                </a>
+    </span></div>
+    <div class="4u"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle23.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle23.jpg" />
+                </a>
+    </span></div>
+    <div class="4u$"><span class="image fit">
+        <a href="/assets/images/lifestyle/lifestyle24.jpg" data-lightbox="gallery">
+                  <img src="/assets/images/lifestyle/lifestyle24.jpg" />
+                </a>
+    </span></div>
+	</div>
+</div>
+
+
