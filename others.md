@@ -64,8 +64,8 @@ nav-menu: true
     </span></div>
 	</div>
 </div>
-</section>
 
+<h2 id="content">Recollection of Elderly Faces</h2>
 
 <div class="box alt">
 	<div class="row 50% uniform">

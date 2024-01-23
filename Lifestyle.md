@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lifestyle and Culture
+title: Lifestyle
 image: /assets/images/lifestyle/lifestyle1.jpg
 nav-menu: true
 ---
