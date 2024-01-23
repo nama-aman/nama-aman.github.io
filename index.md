@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, I am Aman'
-description: null
+description: 
 image: /assets/images/lifestyle/lifestyle18.jpg
 author: null
 show_tile: false
